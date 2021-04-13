@@ -22,3 +22,11 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 kconnectex_cli-*.tar
 
+# escript artifacts
+/kconnectex
+
+# local config file
+.kconnectex.json
+
+# Emacs things
+.dir-locals.el
