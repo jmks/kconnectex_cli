@@ -21,6 +21,7 @@ $ ./kconnectex --help
 * Make errors uniform - error type?
 * `completion` command to generate script for bash, zsh
 * strictly output JSON (possible?)
+* Fix version in usage
 
 ## Development
 
